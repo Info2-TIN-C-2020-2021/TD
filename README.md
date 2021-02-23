@@ -8,4 +8,4 @@ Il est mis à jour à la fin de chaque cours.
 
 | Nom | Contenu |
 |---|---|
-| 20200222 | Setup |
+| TD20200222 | Setup |
