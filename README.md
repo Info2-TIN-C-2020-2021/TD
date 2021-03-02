@@ -8,4 +8,8 @@ Il est mis à jour à la fin de chaque cours.
 
 | Nom | Contenu |
 |---|---|
-| TD20200222 | Setup |
+| TD20210222 | Setup |
+| TD20210301 | création fichier texte vide |
+
+
+Pour le prochain cours : chapitre 12 de  https://heig-tin-info.github.io/handout/content/files.html
