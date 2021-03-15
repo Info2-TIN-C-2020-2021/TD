@@ -15,6 +15,7 @@ Il est mis à jour à la fin de chaque cours.
 | TD20210308 | lecture en mode caractères depuis un fichier texte | 
 | TD20210308b | lecture en mode lignes depuis un fichier texte |
 | TD20210308c | types énumérés |
-| TD20210315 | types structurés |
-| TD20210315b | types structurés |
+| TD20210315 | préparation aux types structurés |
+| TD20210315b | type structuré sPoint2D |
+| TD20210315c | type structuré cartesian/polar |
 
