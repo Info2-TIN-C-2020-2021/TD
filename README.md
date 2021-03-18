@@ -18,4 +18,4 @@ Il est mis à jour à la fin de chaque cours.
 | TD20210315 | préparation aux types structurés |
 | TD20210315b | type structuré sPoint2D |
 | TD20210315c | type structuré cartesian/polar |
-
+| TD20210318 | lecture entête fichier binaire wav |
