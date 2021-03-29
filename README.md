@@ -20,3 +20,4 @@ Il est mis à jour à la fin de chaque cours.
 | TD20210315c | type structuré cartesian/polar |
 | TD20210318 | lecture entête fichier binaire wav |
 | TD20210322 | écriture  fichier binaire |
+| TD20210329 | Pointeurs  |
