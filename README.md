@@ -21,3 +21,4 @@ Il est mis à jour à la fin de chaque cours.
 | TD20210318 | lecture entête fichier binaire wav |
 | TD20210322 | écriture  fichier binaire |
 | TD20210329 | Pointeurs  |
+| TD20210401 | Révision pour TE1: Cat's hunting |
