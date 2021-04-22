@@ -23,5 +23,6 @@ Il est mis à jour à la fin de chaque cours.
 | TD20210329 | Pointeurs  |
 | TD20210401 | Révision pour TE1: Cat's hunting |
 | TD20210419 | Allocation dynamique  |
+| TD20210422 | Allocation dynamique pour des données issues de fichiers textes  |
 
 Lien pour dessiner des graphes 2D à partir d'un fichie .csv : https://chart-studio.plotly.com/create/#/
