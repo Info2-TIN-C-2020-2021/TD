@@ -26,5 +26,6 @@ Il est mis à jour à la fin de chaque cours.
 | TD20210422 | Allocation dynamique pour des données issues de fichiers textes  |
 | TD20210426 | Réallocation dynamique  |
 | TD20210503 | Réallocation dynamique (suite) |
+| TD20210506 | Réallocation dynamique (fin) |
 
 Lien pour dessiner des graphes 2D à partir d'un fichie .csv : https://chart-studio.plotly.com/create/#/
