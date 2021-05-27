@@ -29,6 +29,7 @@ Il est mis à jour à la fin de chaque cours.
 | TD20210506 | Réallocation dynamique (fin) |
 | TD20210510 | image bitmap - description et accès au contenu |
 | TD20210517 | Compilation séparée |
+| TD20210520 | Listes de données |
 
 
 Lien pour dessiner des graphes 2D à partir d'un fichie .csv : https://chart-studio.plotly.com/create/#/
