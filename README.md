@@ -31,6 +31,7 @@ Il est mis à jour à la fin de chaque cours.
 | TD20210517 | Compilation séparée |
 | TD20210520 | Listes de données |
 | TD20210531 | Listes de données y.c. insert+delete |
+| TD20210531b | Listes de données à tailles dynamiques |
 
 
 Lien pour dessiner des graphes 2D à partir d'un fichie .csv : https://chart-studio.plotly.com/create/#/
