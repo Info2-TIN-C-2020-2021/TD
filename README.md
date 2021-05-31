@@ -30,6 +30,7 @@ Il est mis à jour à la fin de chaque cours.
 | TD20210510 | image bitmap - description et accès au contenu |
 | TD20210517 | Compilation séparée |
 | TD20210520 | Listes de données |
+| TD20210531 | Listes de données y.c. insert+delete |
 
 
 Lien pour dessiner des graphes 2D à partir d'un fichie .csv : https://chart-studio.plotly.com/create/#/
