@@ -34,5 +34,6 @@ Il est mis à jour à la fin de chaque cours.
 | TD20210531b | Listes de données à tailles dynamiques |
 | TD20210603 | Piles, Queues, listes chainées|  
 | TD20210607 | Listes chainées|  
+| TD20210617 | Listes chainées|  
 
 Lien pour dessiner des graphes 2D à partir d'un fichie .csv : https://chart-studio.plotly.com/create/#/
